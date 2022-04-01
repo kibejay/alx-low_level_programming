@@ -1,0 +1,4 @@
+Gcc - c 0-isupper.c
+ar rc libmy.a 0-isupper.o
+ar - t libmy.a
+nm libmy.a
