@@ -41,7 +41,7 @@ If new_size == old_size do not do anything and return ptr
 If ptr is NULL, then the call is equivalent to malloc(new_size), for all values of old_size and new_size
 If new_size is equal to zero, and ptr is not NULL, then the call is equivalent to free(ptr). Return NULL
 Don’t forget to free ptr when it makes sense
-5.We must accept finite disappointment, but never lose infinite hope
+5. We must accept finite disappointment, but never lose infinite hope
 Write a program that multiplies two positive numbers.
 
 Usage: mul num1 num2 num1 and num2 will be passed in base 10
